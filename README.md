@@ -1,2 +1,2 @@
 # new-repo
-prac new repo and understanding github
+prac new repo and understanding github.
